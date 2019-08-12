@@ -4,7 +4,7 @@ import React from 'react';
 const Error = () => {
     return (
         <div className="item-not-found">
-          Ayudame! You just found a 404!
+          Ayudame! We are experiencing technical difficulty. You just found a 404!
         </div>
     )
 }
