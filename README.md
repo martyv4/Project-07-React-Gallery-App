@@ -10,6 +10,13 @@ To create an image gallery app using React, JSX, Create React App, React Router 
 ```
   1. On the start page click on the Navlinks (Butterflies, Cinderella, Lion King) to view the images.
   2. To search images type in a word or phrase and enter or click on the magnifying glass.
+  3. Initializing the project:
+     When running the initial project please run the (npm install & npm start)
+
+### `npm start`
+```
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ```
  ### Tools/Languages Used:
