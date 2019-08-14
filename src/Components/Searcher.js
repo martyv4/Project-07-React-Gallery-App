@@ -7,7 +7,7 @@ import { withRouter } from "react-router-dom";
 
 class Searcher extends Component {
     constructor(props) {
-        //execute default constructor
+        //execute default constructor - https://www.youtube.com/watch?v=wdXEtKtHFdw
         super(props);
     
         //initial value for state: set searchTerm to empty string

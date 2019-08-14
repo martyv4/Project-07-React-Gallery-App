@@ -1,14 +1,20 @@
 # Project07_React_Gallery_App
  Project07_React_Gallery_App
 
-
-
 ### Objective:
 ```
 To create an image gallery app using React, JSX, Create React App, React Router and working with APIs.
 ```
-### Link to Live Game: http://www.yvonne-new.com/
+### Link to my portfolio: http://www.yvonne-new.com/
+### Link to live link:  http://yvonne-new.com/static/imagefinder/
 
+### Initial Instructions once you download project zip file in github:
+```
+1) run npm install
+2) create a config.js file and copy 
+    ` const apiKey = 'YOUR API KEY' ;`
+    ` export default apiKey; `
+```
 ### Instructions:
 ```
   1. On the start page click on the Navlinks (Butterflies, Cinderella, Lion King) to view the images.
