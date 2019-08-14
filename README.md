@@ -4,11 +4,9 @@
 ### Objective:
 ```
 To create an image gallery app using React, JSX, Create React App, React Router and working with APIs.
-
-[Link to my portfolio:](http://www.yvonne-new.com/)
-[Link to my portfolio:](http://yvonne-new.com/static/imagefinder/)
-
 ```
+[Link to my portfolio:](http://www.yvonne-new.com/)
+[Link to my React Gallery App:](http://yvonne-new.com/static/imagefinder/)
 
 ### Initial Instructions once you download project zip file in github:
 ```
