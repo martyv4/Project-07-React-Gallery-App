@@ -12,8 +12,8 @@ To create an image gallery app using React, JSX, Create React App, React Router 
 ```
 1) run npm install
 2) create a config.js file and copy 
-    ` const apiKey = 'YOUR API KEY' ;`
-    ` export default apiKey; `
+        const apiKey = 'YOUR API KEY' ;
+        export default apiKey;
 ```
 ### Instructions:
 ```
