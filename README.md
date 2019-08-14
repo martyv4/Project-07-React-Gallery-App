@@ -14,11 +14,15 @@ To create an image gallery app using React, JSX, Create React App, React Router 
 1) run npm install & npm start
    Runs the app in the development mode.<br>
    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-2) create a config.js file and copy 
+2) Details on config.js
+    * Create a new file name it config.js
+    * Used the suggested structure (import variable apiKey)
+    * Located in the src folder
         const apiKey = 'YOUR API KEY' ;
         export default apiKey;
 ```
 Further detailed instructions:  "https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md"
+
 
 ### Instructions:
 ```
@@ -50,10 +54,5 @@ CSS:
  * Changed the back-ground color
 
 ```
-#### Details on config.js
-```
- * Create a new file name it config.js
- * Used the suggested structure (import variable apiKey)
- * Located in the src folder
-```
+
 
