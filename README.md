@@ -5,15 +5,15 @@
 ```
 To create an image gallery app using React, JSX, Create React App, React Router and working with APIs.
 ```
-[Link to my portfolio:](http://www.yvonne-new.com/)
+  [Link to my portfolio](http://www.yvonne-new.com/)
 
-[Link to my React Gallery App:](http://yvonne-new.com/static/imagefinder/)
+  [Link to my React Gallery App](http://yvonne-new.com/static/imagefinder/)
 
 ### Initial Instructions once you download project zip file in github:
 ```
 1) run npm install & npm start
    Runs the app in the development mode.<br>
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   Open "http://localhost:3000" to view it in the browser.
 2) Details on config.js
     * Create a new file name it config.js
     * Used the suggested structure (import variable apiKey)
