@@ -4,9 +4,10 @@
 ### Objective:
 ```
 To create an image gallery app using React, JSX, Create React App, React Router and working with APIs.
-```
+`
 ### Link to my portfolio: http://www.yvonne-new.com/
 ### Link to live link:  http://yvonne-new.com/static/imagefinder/
+```
 
 ### Initial Instructions once you download project zip file in github:
 ```
@@ -14,6 +15,8 @@ To create an image gallery app using React, JSX, Create React App, React Router 
 2) create a config.js file and copy 
         const apiKey = 'YOUR API KEY' ;
         export default apiKey;
+
+Further detailed instructions:  https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 ```
 ### Instructions:
 ```
