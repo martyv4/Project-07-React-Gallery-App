@@ -48,8 +48,8 @@ function Router() {
         2) gallery page
                (accessible from search and nav links - or direct address bar manip)
         3) Error page - default route when the above two are not reached (404)
-                  https://reacttraining.com/react-router/web/guides/basic-components
-                  https://reacttraining.com/react-router/web/example/url-params
+                  "https://reacttraining.com/react-router/web/guides/basic-components
+                  "https://reacttraining.com/react-router/web/example/url-params"
     */}
       <Switch>
         <Route exact path="/" component={Home} />   

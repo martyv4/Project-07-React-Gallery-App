@@ -11,31 +11,29 @@ To create an image gallery app using React, JSX, Create React App, React Router 
 
 ### Initial Instructions once you download project zip file in github:
 ```
-1) run npm install
+1) run npm install & npm start
+   Runs the app in the development mode.<br>
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 2) create a config.js file and copy 
         const apiKey = 'YOUR API KEY' ;
         export default apiKey;
-
-Further detailed instructions:  https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 ```
+Further detailed instructions:  "https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md"
+
 ### Instructions:
 ```
-  1. On the start page click on the Navlinks (Butterflies, Cinderella, Lion King) to view the images.
+  1. On the start page click on the Navigation links (Butterflies, Cinderella, Lion King) to view the images.
   2. To search images type in a word or phrase and enter or click on the magnifying glass.
   3. Initializing the project:
      When running the initial project please run the (npm install & npm start)
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ```
- ### Tools/Languages Used:
+
+### Tools/Languages Used:
 ```
     -- CSS, HTML
     -- React, Node, NPM
 ```
+
 ## Features:
 Several additions were made to the original code base made avaialble for producing this application.
 
