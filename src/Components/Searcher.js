@@ -1,6 +1,6 @@
 //Import the React module, and Component class (named import) from the react package
 import React, { Component } from "react";
-//Import withRouter method from react-router-dom module
+//Import with Router method from react-router-dom module
 //allows the form to redirect to a specific route
 //https://reacttraining.com/react-router/core/api/withRouter
 import { withRouter } from "react-router-dom";

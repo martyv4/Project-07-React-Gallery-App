@@ -5,9 +5,9 @@ import React from 'react';
 const Home = () => {
 
     return (
-        <div className="HomePage">
+        <div className="home-page">
             <hr />
-            <p>Search for images by selecting a Navigation Link or the Search button</p>
+            <p>Search for images by selecting a Navigation Link or use the Search functionality</p>
         </div>
     );
 }

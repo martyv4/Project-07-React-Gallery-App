@@ -1,6 +1,8 @@
+//The app.js is the base component - combines react with the index.html
+//Import the React module from the react package
 import React, { Component } from 'react';
 //load our component Router (which is the only item embedded)
-import Router from './AppRouter';
+import Router from './Router';
 
 import '../index.css';
 

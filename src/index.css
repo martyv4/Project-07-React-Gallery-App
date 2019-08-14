@@ -14,6 +14,7 @@ h2 {
 ul {
   list-style-type: none;
   padding-left: 0;
+  
 }
 
 a {
@@ -123,4 +124,52 @@ input {
     margin: 10px;
     width: 100px;
   }
+
+  .missing-page, .home-page {
+    color: black;
+    font-weight: bold;
+  }
+
+.title-blue {
+  color: blue;
+  font-size: 36pt;
+}
+
+.title-red {
+  color: red;
+}
+
+.title-yellow {
+  color: yellow;
+}
+
+.title-green {
+  color: green;
+}
+
+  .image-finder-title {
+    margin-bottom: 20px;
+    letter-spacing: 2.5px;
+    --text-transform: uppercase;
+    color: rgba(53, 36, 82, 0.9);
+    font-family: Satisfy, cursive;
+    font-size: 28pt;
+    font-weight:normal;
+    color: rgb(116, 40, 5);
+    border-radius: 0.35em;
+    text-shadow: 0 1px 0 #ccc,
+                    0 2px 0 #c9c9c9,
+                    0 3px 0 #bbb,
+                    0 4px 0 #b9b9b9,
+                    0 5px 0 #aaa,
+                    0 6px 1px rgba(0,0,0,.1),
+                    0 0 5px rgba(0,0,0,.1),
+                    0 1px 3px rgba(0,0,0,.3),
+                    0 3px 5px rgba(0,0,0,.2),
+                    0 5px 10px rgba(0,0,0,.25),
+                    0 10px 10px rgba(0,0,0,.2),
+                    0 20px 20px rgba(0,0,0,.15);
+
+  }
+
 }
